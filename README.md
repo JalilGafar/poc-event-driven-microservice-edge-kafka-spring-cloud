@@ -14,6 +14,7 @@
 [Cheick Oumar DIAKITE](https://github.com/Oumar72-HUB)
 [AMOUSSOUGBO Anani Serge](https://github.com/SergeCodeur)
 [Ramiro Kaffo](https://github.com/Ramirokaffo)
+[Fonda Jalil](https://github.com/JalilGafar)
 
 
 
